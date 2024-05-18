@@ -1,6 +1,6 @@
 # Golang Concurrence Treat
 
-These repo intent to teach how to properly treat minimaly a application concurrence
+This repo intent to teach how to properly treat minimaly a application concurrence
 
 ## The proposal
 
