@@ -1,0 +1,4 @@
+github.com/go-redis/redis v6.15.9+incompatible h1:K0pv1D7EQUjfyoMql+r/jZqCLizCGKFlFgcHWWmHQjg=
+github.com/go-redis/redis v6.15.9+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
+github.com/stone-stones/redislock v0.0.0-20200526015946-d5c0ca0b8207 h1:+moqnv4XdRTkuxOEhWet8wmT3bg36vpgd4aTBXDNt6Y=
+github.com/stone-stones/redislock v0.0.0-20200526015946-d5c0ca0b8207/go.mod h1:gQwSmpLpkDFCrcgAVC7lf5Hn/cYw9vsPbvcVaXynEVE=
