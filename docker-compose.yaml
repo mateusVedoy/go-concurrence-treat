@@ -1,0 +1,7 @@
+version: '3'
+services:
+  redis-stream:
+    image: redis:alpine
+    container_name: local-redis-stream
+    ports:
+      - 6379:6379

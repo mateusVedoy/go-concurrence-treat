@@ -30,6 +30,12 @@ The go-redis library isn't designed for handling concurrency and resource lockin
 
 ## Testing
 
+Up your local Redis DB
+
+```
+docker compose up
+```
+
 ### Wrong way
 
 ```
